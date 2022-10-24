@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lickoneyou/lickoneyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<p align="center">
+
+  [![codewars](https://www.codewars.com/users/rsschool_801b23650b4efb98/badges/small)](https://www.codewars.com/users/rsschool_801b23650b4efb98) 
+
+</p>
+
+
+<p align="center">
+
+<img align="center" width="600" height="600" src="https://www.codewars.com/users/rsschool_801b23650b4efb98/badges/large">
+  
+  </p>
