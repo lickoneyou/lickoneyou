@@ -11,8 +11,8 @@
 </div>
 
 
-<a href="https://www.codewars.com/users/rsschool_801b23650b4efb98" align="center">
-<img  width="400" src="https://www.codewars.com/users/rsschool_801b23650b4efb98/badges/large">
+<a href="https://www.codewars.com/users/lickoneyou" align="center">
+<img  width="400" src="https://www.codewars.com/users/lickoneyou/badges/large">
   </a>
   
   
