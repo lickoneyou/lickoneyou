@@ -44,10 +44,15 @@
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&repeat=false&width=450&lines=CodeWars+score" alt="codewars Title" />
     </div>
+    <br/>
 <img src="https://www.codewars.com/users/lickoneyou/badges/large" alt="codewars" />
-<br/> <br/>
-<div width="100%" align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lickoneyou Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lickoneyou&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=CF3229&icon_color=F8D866" height="300px"/></a>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&repeat=false&width=450&lines=GitHub+Profile+Stats" alt="codewars Title" />
+    </div>
+<div> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lickoneyou Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lickoneyou&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=CF3229&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lickoneyou Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lickoneyou&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=CF3229&icon_color=CF3229" height="192px"/></a>
   <br/>
 </div>
   
