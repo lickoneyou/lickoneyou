@@ -9,15 +9,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/richard.durex.5"><img width="32px" alt="FB" title="FB" src="https://cdn-user-icons.flaticon.com/98123/98123763/1680259890340.svg?token=exp=1680260789~hmac=c30dfe58c98b9a2bd03dc56f5e9c1080"/></a>
+  <a href="https://www.facebook.com/richard.durex.5"><img width="32px" alt="FB" title="FB" src="./img/icons8-facebook-50.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/dick_durex/"><img width="32px" alt="Instagram" title="Instagram" src="./img/icons8-instagram-50.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="IN" title="IN"><img width="32px" src="https://cdn-user-icons.flaticon.com/98123/98123763/1680259862907.svg?token=exp=1680260771~hmac=a80acff878086ce8e2713ddfef6d1144"/></a>
+  <a href="" alt="IN" title="IN"><img width="32px" src="./img/icons8-linkedin-50.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/lickoneyou#1156"><img width="32px" alt="Discord" title="Discord" src="https://cdn-user-icons.flaticon.com/98123/98123763/1680260290960.svg?token=exp=1680261190~hmac=07dac70375f371568de02813b9af252b"></a>
+  <a href="https://discord.gg/lickoneyou#1156"><img width="35px" alt="Discord" title="Discord" src="./img/icons8-discord-80.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/GoodFellaOnWeek"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-user-icons.flaticon.com/98123/98123763/1680260274170.svg?token=exp=1680261180~hmac=61a349a1af497e23783cd11da4203b36"/></a>
+  <a href="https://t.me/GoodFellaOnWeek"><img width="30px" alt="Telegram" title="Telegram" src="./img/icons8-telegram-50.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <br/> <br/> <br/>
 
