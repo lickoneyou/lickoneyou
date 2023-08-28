@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.facebook.com/richard.durex.5"><img width="32px" alt="FB" title="FB" src="https://cdn-user-icons.flaticon.com/98123/98123763/1680259890340.svg?token=exp=1680260789~hmac=c30dfe58c98b9a2bd03dc56f5e9c1080"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/dick_durex/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-user-icons.flaticon.com/98123/98123763/1680259764225.svg?token=exp=1680260771~hmac=2e6c65a78d1824be5f303b9a00f3645a"/></a>
+  <a href="https://www.instagram.com/dick_durex/"><img width="32px" alt="Instagram" title="Instagram" src="./img/icons8-instagram-50.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="" alt="IN" title="IN"><img width="32px" src="https://cdn-user-icons.flaticon.com/98123/98123763/1680259862907.svg?token=exp=1680260771~hmac=a80acff878086ce8e2713ddfef6d1144"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
