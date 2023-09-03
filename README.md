@@ -21,7 +21,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <br/> <br/> <br/>
 
-<a href='https://lickoneyou.github.io/CV/cv/build/#'>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=0.1&color=CF3229&multiline=true&repeat=false&width=435&lines=MY+PROFILE+(click))](https://git.io/typing-svg)</a>
+<a href="https://lickoneyou.github.io/CV/cv/build/#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=0.1&color=CF3229&multiline=true&repeat=false&width=435&lines=MY+PROFILE+(click)" alt="Typing SVG" /></a>
 <br/> <br/>
 
   <div>
