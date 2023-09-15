@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/dick_durex/"><img width="32px" alt="Instagram" title="Instagram" src="./img/icons8-instagram-50.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="IN" title="IN"><img width="32px" src="./img/icons8-linkedin-50.png"/></a>
+  <a href="https://www.linkedin.com/in/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB-%D1%85%D0%BE%D0%BC%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-451696291/" alt="IN" title="IN"><img width="32px" src="./img/icons8-linkedin-50.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/lickoneyou#1156"><img width="35px" alt="Discord" title="Discord" src="./img/icons8-discord-80.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
