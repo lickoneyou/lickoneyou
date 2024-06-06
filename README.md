@@ -1,12 +1,5 @@
-<style>
-    .bg {
-        background-color: #0d1117;
-        padding: 15px;
-    }
-</style>
-  
-<div class='bg'>
-  <a href="https://github.com/lickoneyou">
+
+  <p align="center"><a href="https://github.com/lickoneyou" >
     <img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&center=true&repeat=false&width=435&lines=Kiryl+Khomchanka" alt="Kiryl Khomchanka" /></a>
 </p>
 <p align="center">
@@ -76,5 +69,4 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lickoneyou Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lickoneyou&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=CF3229&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lickoneyou Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lickoneyou&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=CF3229&icon_color=CF3229" height="192px"/></a>
   <br/>
-</div>
 </div>
