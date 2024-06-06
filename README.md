@@ -1,4 +1,11 @@
-  <p align="center">
+<style>
+    .bg {
+        background-color: #0d1117;
+        padding: 15px;
+    }
+</style>
+  
+<div class='bg'>
   <a href="https://github.com/lickoneyou">
     <img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&center=true&repeat=false&width=435&lines=Kiryl+Khomchanka" alt="Kiryl Khomchanka" /></a>
 </p>
@@ -8,7 +15,7 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center">
+<p align="center" >
   <a href="https://www.facebook.com/richard.durex.5"><img width="32px" alt="FB" title="FB" src="./img/icons8-facebook-50.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/dick_durex/"><img width="32px" alt="Instagram" title="Instagram" src="./img/icons8-instagram-50.png"/></a>
@@ -28,20 +35,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&repeat=false&width=450&lines=Languages+%2F+Frameworks+%2F+Tools" alt="title" />
     <br/> <br/>
     </div>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="ts" **alt="ts" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="redux" **alt="redux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="SASS"  alt="SASS" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" title="mocha" alt="mocha" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/electron/electron-original-wordmark.svg" title="electron" **alt="electron" width="40" height="40"/>&nbsp;
+  <div >
+    <img src="./img/tools/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/ts.svg" title="ts" **alt="ts" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/react.svg" title="React" **alt="React" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/nextjs.svg" title="Next" **alt="Next" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/redux.svg" title="redux" **alt="redux" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/vuejs.svg" title="vue" **alt="vue" width="40" height="40"/>&nbsp;
+    <br>
+    <img src="./img/tools/html.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/pug.png" title="pug" alt="pug" width="40" height="40"/>&nbsp;
+  <img src="./img/tools/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/sass.svg" title="SASS"  alt="SASS" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/tailwindcss.svg" title="tailwind"  alt="tailwind" width="40" height="40"/>&nbsp;
+    <br>
+    <img src="./img/tools/jest.svg" title="jest" alt="jets" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/mocha.svg" title="mocha" alt="mocha" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/cypress.svg" title="cy" alt="cy" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/reacttestignlibrary.png" title="react testign library" alt="react testign library" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+    <br>
+    <img src="./img/tools/wordpress.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>&nbsp;
+    <br>
+    <img src="./img/tools/git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="./img/tools/pixso.png" title="pixso" alt="pixso" width="40" height="40"/>&nbsp;
+  
 </div>
 <br/> <br/>
 <div>
@@ -58,5 +77,4 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lickoneyou Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lickoneyou&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=CF3229&icon_color=CF3229" height="192px"/></a>
   <br/>
 </div>
-  
-  
+</div>
