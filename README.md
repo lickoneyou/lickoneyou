@@ -21,16 +21,17 @@
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <br /> <br /> <br />
 
-<div align="center">
+<div style='display: flex; justifyContent: space-between;'>
     <a href="https://lickoneyou.github.io/CV/cv/build/#" target="_blank">
         <img src="./img/cv.png" alt="Typing SVG" width="40" height="40" />
-        <img src="https://readme-typing-svg.demolab.com/?font=Tillana&size=30&duration=1&color=CF3229&repeat=false&width=450&lines=-+CV" alt="Typing SVG" height="27" />
+        <img src="https://readme-typing-svg.demolab.com/?font=Tillana&size=30&duration=1&color=CF3229&repeat=false&width=450&lines=-+CV" alt="Typing SVG" height="27"  />
     </a>
-    <a href="https://lickoneyou.github.io/CV/cv/build/#Projects" target="_blank">
-        <img src="./img/projects.png" alt="Typing SVG" width="40" height="40" />
+    <a align="end" href="https://lickoneyou.github.io/CV/cv/build/#Projects" target="_blank">
         <img src="https://readme-typing-svg.demolab.com/?font=Tillana&size=30&duration=1&color=CF3229&repeat=false&width=450&lines=-+PROJECTS" alt="Typing SVG" height="27" />
+        <img src="./img/projects.png" alt="Typing SVG" width="40" height="40" />
     </a>
 </div>
+
 
 <br /> <br />
 
