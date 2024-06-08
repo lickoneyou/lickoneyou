@@ -18,15 +18,21 @@
   <a href="https://discord.gg/lickoneyou#1156"><img width="35px" alt="Discord" title="Discord" src="./img/icons8-discord-80.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/GoodFellaOnWeek"><img width="30px" alt="Telegram" title="Telegram" src="./img/icons8-telegram-50.png"/></a>
+  </p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <br/> <br/> <br/>
 
 <a href="https://lickoneyou.github.io/CV/cv/build/#" target="_blank">
-<div>
+
 <img src="./img/cv.png" alt="Typing SVG" width="40" height="40"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Tillana&size=30&duration=1&color=CF3229&repeat=false&width=450&lines=-+CV" alt="Typing SVG" height="27"/> 
-</div>
 </a>
+
+<a href="https://lickoneyou.github.io/CV/cv/build/#Projects" target="_blank">
+<img src="./img/projects.png" alt="Typing SVG" width="40" height="40"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Tillana&size=30&duration=1&color=CF3229&repeat=false&width=450&lines=-+PROJECTS" alt="Typing SVG" height="27"/> 
+</a>
+
 <br/> <br/>
 
   <div>
