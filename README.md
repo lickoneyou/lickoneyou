@@ -22,8 +22,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <br/> <br/> <br/>
 
+<div align="center">
 <a href="https://lickoneyou.github.io/CV/cv/build/#" target="_blank">
-
 <img src="./img/cv.png" alt="Typing SVG" width="40" height="40"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Tillana&size=30&duration=1&color=CF3229&repeat=false&width=450&lines=-+CV" alt="Typing SVG" height="27"/> 
 </a>
@@ -31,6 +31,7 @@
 <img src="./img/projects.png" alt="Typing SVG" width="40" height="40"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Tillana&size=30&duration=1&color=CF3229&repeat=false&width=450&lines=-+PROJECTS" alt="Typing SVG" height="27"/> 
 </a>
+</div>
 
 <br/> <br/>
 
