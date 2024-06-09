@@ -23,8 +23,7 @@
 
 <div>
     <a align='center' href="https://lickoneyou.github.io/CV/cv/build/#" target="_blank" >
-        <img src="./img/cv.png" alt="Typing SVG" width="40" height="40" />
-        <img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&center=false&repeat=false&width=435&lines=+-+CV" height='29' />
+        <img src="./img/cv.png" alt="Typing SVG" width="40" height="40" /><img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&center=false&repeat=false&width=435&lines=+-+CV" height='29' />
     </a>
     <br />
     <a href="https://lickoneyou.github.io/CV/cv/build/#Projects" target="_blank">
