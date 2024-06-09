@@ -27,7 +27,7 @@
     </a>
     <br />
     <a href="https://lickoneyou.github.io/CV/cv/build/#Projects" target="_blank">
-        <img src="./img/projects.png" alt="Typing SVG" height="40" />
+        <img src="./img/projects.png" alt="Typing SVG" height="40" /><img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&center=false&repeat=false&width=435&lines=+-+PROJECTS" height='29' />
     </a>
 </div>
 <br /> <br />
