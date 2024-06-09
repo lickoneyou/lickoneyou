@@ -22,12 +22,16 @@
 <br /> <br /> <br />
 
 <div>
-    <a align='center' href="https://lickoneyou.github.io/CV/cv/build/#" target="_blank" >
+    <a href="https://lickoneyou.github.io/CV/cv/build/#" target="_blank" >
         <img src="./img/cv.png" alt="Typing SVG" width="40" height="40" /><img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&center=false&repeat=false&width=435&lines=&#8287;&#8287;&#8287;-+CV" height='29' />
     </a>
     <br /><br />
     <a href="https://lickoneyou.github.io/CV/cv/build/#Projects" target="_blank">
         <img src="./img/projects.png" alt="Typing SVG" height="40" /><img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&center=false&repeat=false&width=435&lines=&#8287;&#8287;&#8287;-+PROJECTS" height='29' />
+    </a>
+    <br /><br />
+    <a href="https://lickoneyou.github.io/CV/cv/build/#Certificates" target="_blank">
+        <img src="./img/certificate.png" alt="Typing SVG" height="40" /><img src="https://readme-typing-svg.demolab.com?font=Tillana&size=30&duration=1&color=CF3229&center=false&repeat=false&width=435&lines=&#8287;&#8287;&#8287;-+CERTIFICATES" height='29' />
     </a>
 </div>
 <br /> <br />
