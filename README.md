@@ -60,6 +60,7 @@
     <img src="./img/tools/reacttestignlibrary.png" title="react testign library" alt="react testign library" width="40" height="40" />&nbsp;
     <img src="./img/tools/postman.svg" title="postman" alt="postman" width="40" height="40" />&nbsp;
     <br>
+    <img src="./img/tools/php.svg" title="php" alt="php" width="40" height="40" />&nbsp;
     <img src="./img/tools/wordpress.svg" title="wordpress" **alt="wordpress" width="40" height="40" />&nbsp;
     <br>
     <img src="./img/tools/git.svg" title="Git" **alt="Git" width="40" height="40" />&nbsp;
